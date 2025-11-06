@@ -10,6 +10,8 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        bee: "#E8A917",
+        bee2: "#EDBA42"
       },
     },
   },
